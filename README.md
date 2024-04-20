@@ -8,6 +8,7 @@ Learn how to run a container using the hello-world image and manage containers a
 ### Steps
 #### 1. Run a Container with hello-world Image
 ```bash
+kdncsmdksm
 ```
 #### 2. Check Container Status and Explain
 ```bash
