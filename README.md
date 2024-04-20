@@ -92,7 +92,5 @@ docker run -d -p 8088:80 custom-nginx
 
 #### 4. Test the Container, open your browser and navigate to http://localhost:8088 to check if everything is okay
 ```bash
-![image](https://github.com/NadaAlnajdi/Docker_Lab1/assets/113345931/6e6cf227-2abd-4fc2-b78d-ded10457caf5)
-
-
+https://6623af5d7c6e0b6f0507b219-ed671f.node-c9a5.iximiuz.com
 ```
